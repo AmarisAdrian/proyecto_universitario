@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccesoDatos/BaseDatos.cs">
+    <Files>
+      <File FileName="AccesoDatos/BaseDatos.cs" Line="36" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlantillaAdministrativa" expanded="True">
+            <Node name="AccesoDatos" expanded="True">
+              <Node name="BaseDatos.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/penta/Projects/PlantillasAdministrativas/AccesoDatos/BaseDatos.cs" relfile="AccesoDatos/BaseDatos.cs" line="36" column="24" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

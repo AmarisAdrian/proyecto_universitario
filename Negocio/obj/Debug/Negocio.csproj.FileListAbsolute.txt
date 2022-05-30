@@ -1,0 +1,42 @@
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\bin\Debug\WebCam_Capture.dll
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\bin\Debug\WebCam_Capture.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\WebCam_Capture.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.dll
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\bin\Debug\WebCam_Capture.dll
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.dll
+C:\Users\adria\Documents\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\WebCam_Capture.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Negocio\obj\Debug\Negocio.csproj.CopyComplete

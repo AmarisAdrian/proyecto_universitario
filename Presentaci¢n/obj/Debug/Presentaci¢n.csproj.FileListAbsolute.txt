@@ -1,0 +1,158 @@
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.application
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.dll
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.pdb
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCerrarSesion.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCliente.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmLogin.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmMiCuenta.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmOperador.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmPrincipal.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmProductos.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmProveedor.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TrustInfo.xml
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\Adrian Amaris\Desktop\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.application
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.application
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCerrarSesion.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCliente.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmFactura.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmLogin.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmMainOperador.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmMiCuenta.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmOperador.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmPrincipal.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmProductos.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmProveedor.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TrustInfo.xml
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.application
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe
+C:\Users\Adrian Amaris\Documents\Visual Studio 2015\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.application
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.dll
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Cliente.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCerrarSesion.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmFactura.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmInicio.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmLogin.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmMainOperador.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmPresentacion.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.MiCuenta.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Operador.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Productos.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Proveedor.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.SeguimientoCliente.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.SeguimientoOperador.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Stock.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TrustInfo.xml
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.application
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmTecnico.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TicketsTecnico.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TicketsUsuario.resources
+C:\Users\Adrian Amaris\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmSoporteLogin.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.application
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.pdb
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.dll
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.dll
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.pdb
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.pdb
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Cliente.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCerrarSesion.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmFactura.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmInicio.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmLogin.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmMainOperador.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmPresentacion.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmSoporteLogin.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmTecnico.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.MiCuenta.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Operador.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Productos.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Proveedor.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.SeguimientoCliente.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.SeguimientoOperador.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Stock.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TicketsTecnico.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TicketsUsuario.resources
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TrustInfo.xml
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.application
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe
+C:\Users\adria\Documents\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCerrarSesion.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmFactura.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmInicio.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmLogin.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmMainOperador.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmPresentacion.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.MiCuenta.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Productos.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Proveedor.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.SeguimientoCliente.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.Stock.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe.manifest
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.application
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Presentación.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.dll
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\Negocio.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\bin\Debug\AccesoDatos.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.TrustInfo.xml
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.exe.manifest
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.application
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCliente.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmAyuda.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmImprimir.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmOperador.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csprojAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.csproj.CopyComplete
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmAñadirStock.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\PlantillasAdministrativas\Presentación\obj\Debug\Presentación.FrmCam.resources
